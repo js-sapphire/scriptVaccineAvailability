@@ -16,7 +16,7 @@ function handleResult(result) {
 }
 
 function getUrl(district, date) {
-  return `https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?district_id=${district}&date=${date}`;
+  return `https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id=${district}&date=${date}`;
 }
 
 function sleep(ms) {
