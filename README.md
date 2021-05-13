@@ -1,4 +1,4 @@
-# scriptVaccineAvailability
+# Script for covid vaccine availability
 
 * Download the zip
 * Check index.js file and update your district name and id
